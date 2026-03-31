@@ -4,19 +4,19 @@
 This project presents an interactive Sales Analysis Dashboard built using Microsoft Excel to analyze business performance, uncover trends, and generate actionable insights.  The dashboard transforms raw data into meaningful visualizations, enabling better decision-making across sales, marketing, and operations.
 
 📌 Key Highlights 
-📦 1,000 Orders Analyzed
-💰 ₹3,520,984 Total Revenue
-🛒 ₹3,520.98 Avg Customer Spending
-🚚 5.53 Days Avg Delivery Time
-📸 Dashboard Preview
+ 1,000 Orders Analyzed
+ ₹3,520,984 Total Revenue
+ ₹3,520.98 Avg Customer Spending
+ 5.53 Days Avg Delivery Time
+ Dashboard Preview
 
 📊 Features
-🔹 Revenue analysis by Occasion and Category
-🔹 Top 10 Cities by order volume
-🔹 Monthly sales trend analysis 📅
-🔹 Top 5 revenue-generating products 🛍️
-🔹 Hourly order trends ⏰
-🔹 Interactive Slicers & Filters
+ Revenue analysis by Occasion and Category
+ Top 10 Cities by order volume
+ Monthly sales trend analysis 
+ Top 5 revenue-generating products 
+ Hourly order trends 
+ Interactive Slicers & Filters
 
 🧠 Key Insights
 🎯 Anniversary & Raksha Bandhan drive the highest revenue
