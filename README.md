@@ -3,7 +3,7 @@
 🚀 Project Overview
 This project presents an interactive Sales Analysis Dashboard built using Microsoft Excel to analyze business performance, uncover trends, and generate actionable insights.  The dashboard transforms raw data into meaningful visualizations, enabling better decision-making across sales, marketing, and operations.
 
-📌 Key Highlights
+📌 Key Highlights 
 📦 1,000 Orders Analyzed
 💰 ₹3,520,984 Total Revenue
 🛒 ₹3,520.98 Avg Customer Spending
